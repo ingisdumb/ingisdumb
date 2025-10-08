@@ -16,6 +16,6 @@ Currenly doing volunteer IT for [Shadetree](https://theshadetree.org/) of Las Ve
   * Horror games, I LOVE horror games.
   * Fixes to problems I encounter as I get more advanced.
 
-Contact me at: hboyd5310@gmail.com ✉️
+Contact me at: <a href="hboyd5310@gmail.com">hboyd5310@gmail.com</a> ✉️
 
 Current certificates: none 😔
