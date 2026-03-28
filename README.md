@@ -13,7 +13,8 @@ Currenly doing volunteer IT for [Shadetree](https://theshadetree.org/) of Las Ve
   * Be an overall decent human.
 * Current Projects:
   * BreadStackeR, a horror game based on a packaged bread warehouse.
+  * Brick Breaker in Java!
 
 Contact me at: <a href="hboyd5310@gmail.com">hboyd5310@gmail.com</a> ✉️
 
-Current certificates: CompTIA Tech +
+Current certificates: CompTIA Tech+
