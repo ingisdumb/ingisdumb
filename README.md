@@ -1,5 +1,5 @@
 # Welcome!
-## My name is Hunter Boyd. I'm 15 years old as of 3/29/26.
+## My name is Hunter Boyd. 
 ### I live in Las Vegas, Nevada.
 
 Currenly doing volunteer IT for [The Shadetree](https://theshadetree.org/) of Las Vegas, which is a women's domestic violence and homeless shelter.
